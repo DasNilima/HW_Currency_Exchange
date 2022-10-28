@@ -48,11 +48,6 @@ Your output should be:
 20.84 EUR
 10.03 USD
 ```
-
-**Remember, if you changed the values of the currency exchange rates, this output will also be different.**
-
-If you need extra help, the solution code can be found in [HW_4_Currency_Exchange_Emulator_Solution.py](HW_4_Currency_Exchange_Emulator_Solution.py).
-
 ## Acceptance Criteria
 
 - There should be no errors displayed in the console.
